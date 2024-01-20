@@ -1,0 +1,58 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+Author:  Jamal Alizadah - 210786540 - aliz6540@mylaurier.ca
+ID: 210786540     
+Email: aliz6540@mylaurier.ca
+Version: 
+-------------------------------------------------------
+"""
+Testing for all Tasks in one
+
+TEST 1:
+
+w
+'w' is not an integer or 'q'
+e
+'e' is not an integer or 'q'
+r
+'r' is not an integer or 'q'
+1
+2
+3
+q
+Total: 6
+----------------------------------------
+Lines: 80
+----------------------------------------
+Tokens: 222
+----------------------------------------
+Words: 6
+----------------------------------------
+Done
+
+TEST 2:
+
+j
+'j' is not an integer or 'q'
+a
+'a' is not an integer or 'q'
+m
+'m' is not an integer or 'q'
+4
+5
+6
+w
+'w' is not an integer or 'q'
+q
+Total: 15
+----------------------------------------
+Lines: 80
+----------------------------------------
+Tokens: 222
+----------------------------------------
+Words: 6
+----------------------------------------
+Done

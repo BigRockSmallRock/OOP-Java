@@ -1,0 +1,28 @@
+Test scannerTest
+
+Enter an integer ('Quit' to stop): 5
+Enter an integer ('Quit' to stop): 9
+Enter an integer ('Quit' to stop): 8
+Enter an integer ('Quit' to stop): quit
+That is not an integer!
+Enter an integer ('Quit' to stop): Quit
+Total: 22
+
+Test stringPrinter
+Print *5 times
+*****
+Print *-5 times
+
+getMessage:
+java.lang.Exception: Please Enter a Positive Number! 
+
+toString:
+java.lang.Exception: java.lang.Exception: Please Enter a Positive Number! 
+
+printStackTrace:
+java.lang.Exception: java.lang.Exception: Please Enter a Positive Number! 
+	at cp213.Main.stringPrinter(Main.java:99)
+	at cp213.Main.main(Main.java:26)
+Caused by: java.lang.Exception: Please Enter a Positive Number! 
+	at cp213.Main.stringPrinter(Main.java:94)
+	... 1 more

@@ -1,0 +1,35 @@
+New Student:
+Name:     Brown, David
+ID:       123456
+Birthdate: 1962-10-25
+----------------------------------------
+Test Getters
+Testing GetId(): 123456
+Testing GetSurname(): Brown
+Testing GetForename(): David
+Testing GetBirthdate(): 1962-10-25
+----------------------------------------
+Test Setters
+Updated Student:
+Name:  Alizadah, Jamal
+ID:    210786540
+Birthdate: 2002-12-19
+----------------------------------------
+Test compareTo
+----------------------------------------
+Testing student 1: 
+Name:       Joe, Bob
+ID:       654321
+Birthdate: 2182-01-01
+
+Testing student 2: 
+Name:      Rock, Grass
+ID:       909090
+Birthdate: 1633-06-19
+
+Testing compareTo() with student 1 and student 2: -1
+
+Testing new student: 
+Name:       Kat, Kit
+ID:       616161
+Birthdate: 1998-04-03
